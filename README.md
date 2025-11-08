@@ -85,6 +85,33 @@ DELETE /api/healthchecks/:id
 4. Click "Details" to see complete check history
 5. Delete monitors when no longer needed
 
+## Testing
+
+Run the API tests:
+```bash
+./test-api.sh
+```
+
+This will test:
+- Listing health checks
+- Creating new health checks
+- Viewing check history
+- Deleting health checks
+
+## Environment Variables
+
+Copy `.env.example` to `.env` and customize as needed:
+```bash
+cp .env.example .env
+```
+
+Available variables:
+- `PORT`: Server port (default: 3000)
+- `NODE_ENV`: Environment (development/production)
+- `DEFAULT_CHECK_INTERVAL`: Default interval in ms
+- `MAX_RESULTS_PER_CHECK`: History limit per check
+- `REQUEST_TIMEOUT`: HTTP request timeout
+
 ## License
 
 ISC

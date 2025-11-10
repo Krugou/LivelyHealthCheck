@@ -1,0 +1,30 @@
+{
+  "healthChecks": {
+    "hc_1762675285623_67od1e8yv": {
+      "url": "https://users.metropolia.fi/~aleksino/swim/",
+      "interval": 60000,
+      "name": "https://users.metropolia.fi/~aleksino/swim/",
+      "createdAt": "2025-11-09T08:01:25.624Z"
+    }
+  },
+  "healthCheckResults": {
+    "hc_1762675285623_67od1e8yv": [
+      {
+        "url": "https://users.metropolia.fi/~aleksino/swim/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 96,
+        "timestamp": "2025-11-09T08:01:25.720Z",
+        "error": null
+      },
+      {
+        "url": "https://users.metropolia.fi/~aleksino/swim/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 337,
+        "timestamp": "2025-11-09T08:04:59.783Z",
+        "error": null
+      }
+    ]
+  }
+}

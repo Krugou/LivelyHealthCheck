@@ -254,20 +254,7 @@ export default function Home({ initialChecks }) {
                         </div>
                         {getStatusBadge(check.latestStatus)}
                       </div>
-                      <div className="flex gap-2 ml-4">
-                        <button
-                          onClick={() => viewDetails(check.id)}
-                          className="px-3 py-1 bg-blue-100 hover:bg-blue-200 text-blue-700 rounded-lg transition duration-200 text-xs font-medium"
-                        >
-                          Details
-                        </button>
-                        <button
-                          onClick={() => deleteHealthCheck(check.id)}
-                          className="px-3 py-1 bg-red-100 hover:bg-red-200 text-red-700 rounded-lg transition duration-200 text-xs font-medium"
-                        >
-                          Delete
-                        </button>
-                      </div>
+
                     </div>
                   ) : (
                     // Full Mode View
@@ -307,7 +294,8 @@ export default function Home({ initialChecks }) {
                           )}
                         </div>
                       </div>
-                      <div className="flex gap-2 ml-4">
+                        <div className="flex gap-2 ml-4">
+
                         <button
                           onClick={() => viewDetails(check.id)}
                           className="px-4 py-2 bg-blue-100 hover:bg-blue-200 text-blue-700 rounded-lg transition duration-200 text-sm font-medium"

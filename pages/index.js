@@ -213,7 +213,7 @@ export default function Home({ initialChecks }) {
         </div>
         )}
 
-        {!showAddForm && (
+        {!showAddForm && !compactMode && (
           <div className="mb-8 text-center">
             <button
               onClick={() => setShowAddForm(true)}

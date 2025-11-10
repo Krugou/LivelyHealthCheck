@@ -43,30 +43,6 @@
         "url": "https://my-test.businessfinland.fi/fi",
         "status": "online",
         "statusCode": 200,
-        "responseTime": 388,
-        "timestamp": "2025-11-10T09:37:14.955Z",
-        "error": null
-      },
-      {
-        "url": "https://my-test.businessfinland.fi/fi",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 447,
-        "timestamp": "2025-11-10T09:38:15.014Z",
-        "error": null
-      },
-      {
-        "url": "https://my-test.businessfinland.fi/fi",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 340,
-        "timestamp": "2025-11-10T09:39:14.914Z",
-        "error": null
-      },
-      {
-        "url": "https://my-test.businessfinland.fi/fi",
-        "status": "online",
-        "statusCode": 200,
         "responseTime": 412,
         "timestamp": "2025-11-10T09:40:14.998Z",
         "error": null
@@ -438,33 +414,33 @@
         "responseTime": 467,
         "timestamp": "2025-11-10T10:26:15.406Z",
         "error": null
+      },
+      {
+        "url": "https://my-test.businessfinland.fi/fi",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 406,
+        "timestamp": "2025-11-10T10:27:15.349Z",
+        "error": null
+      },
+      {
+        "url": "https://my-test.businessfinland.fi/fi",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 388,
+        "timestamp": "2025-11-10T10:28:15.338Z",
+        "error": null
+      },
+      {
+        "url": "https://my-test.businessfinland.fi/fi",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 397,
+        "timestamp": "2025-11-10T10:29:15.347Z",
+        "error": null
       }
     ],
     "hc_1762766605137_9elujjl8q": [
-      {
-        "url": "https://my-dev.businessfinland.fi/fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 199,
-        "timestamp": "2025-11-10T09:37:14.768Z",
-        "error": null
-      },
-      {
-        "url": "https://my-dev.businessfinland.fi/fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 175,
-        "timestamp": "2025-11-10T09:38:14.743Z",
-        "error": null
-      },
-      {
-        "url": "https://my-dev.businessfinland.fi/fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 207,
-        "timestamp": "2025-11-10T09:39:14.782Z",
-        "error": null
-      },
       {
         "url": "https://my-dev.businessfinland.fi/fi/",
         "status": "online",
@@ -840,33 +816,33 @@
         "responseTime": 241,
         "timestamp": "2025-11-10T10:26:15.195Z",
         "error": null
-      }
-    ],
-    "hc_1762766623913_zu0mtz2yc": [
+      },
       {
-        "url": "https://my-beta.businessfinland.fi/fi/",
+        "url": "https://my-dev.businessfinland.fi/fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 247,
+        "timestamp": "2025-11-10T10:27:15.205Z",
+        "error": null
+      },
+      {
+        "url": "https://my-dev.businessfinland.fi/fi/",
         "status": "online",
         "statusCode": 200,
         "responseTime": 208,
-        "timestamp": "2025-11-10T09:37:14.778Z",
+        "timestamp": "2025-11-10T10:28:15.173Z",
         "error": null
       },
       {
-        "url": "https://my-beta.businessfinland.fi/fi/",
+        "url": "https://my-dev.businessfinland.fi/fi/",
         "status": "online",
         "statusCode": 200,
-        "responseTime": 171,
-        "timestamp": "2025-11-10T09:38:14.741Z",
+        "responseTime": 180,
+        "timestamp": "2025-11-10T10:29:15.146Z",
         "error": null
-      },
-      {
-        "url": "https://my-beta.businessfinland.fi/fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 213,
-        "timestamp": "2025-11-10T09:39:14.789Z",
-        "error": null
-      },
+      }
+    ],
+    "hc_1762766623913_zu0mtz2yc": [
       {
         "url": "https://my-beta.businessfinland.fi/fi/",
         "status": "online",
@@ -1242,33 +1218,33 @@
         "responseTime": 211,
         "timestamp": "2025-11-10T10:26:15.167Z",
         "error": null
+      },
+      {
+        "url": "https://my-beta.businessfinland.fi/fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 189,
+        "timestamp": "2025-11-10T10:27:15.149Z",
+        "error": null
+      },
+      {
+        "url": "https://my-beta.businessfinland.fi/fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 210,
+        "timestamp": "2025-11-10T10:28:15.176Z",
+        "error": null
+      },
+      {
+        "url": "https://my-beta.businessfinland.fi/fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 173,
+        "timestamp": "2025-11-10T10:29:15.140Z",
+        "error": null
       }
     ],
     "hc_1762766640121_gdf9j8jk8": [
-      {
-        "url": "https://id-test.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 222,
-        "timestamp": "2025-11-10T09:37:14.793Z",
-        "error": null
-      },
-      {
-        "url": "https://id-test.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 127,
-        "timestamp": "2025-11-10T09:38:14.699Z",
-        "error": null
-      },
-      {
-        "url": "https://id-test.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 198,
-        "timestamp": "2025-11-10T09:39:14.775Z",
-        "error": null
-      },
       {
         "url": "https://id-test.businessfinland.fi/",
         "status": "online",
@@ -1644,33 +1620,33 @@
         "responseTime": 228,
         "timestamp": "2025-11-10T10:26:15.185Z",
         "error": null
+      },
+      {
+        "url": "https://id-test.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 209,
+        "timestamp": "2025-11-10T10:27:15.170Z",
+        "error": null
+      },
+      {
+        "url": "https://id-test.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 212,
+        "timestamp": "2025-11-10T10:28:15.179Z",
+        "error": null
+      },
+      {
+        "url": "https://id-test.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 181,
+        "timestamp": "2025-11-10T10:29:15.149Z",
+        "error": null
       }
     ],
     "hc_1762766656701_fh6cti17i": [
-      {
-        "url": "https://id-dev.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 183,
-        "timestamp": "2025-11-10T09:37:14.756Z",
-        "error": null
-      },
-      {
-        "url": "https://id-dev.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 124,
-        "timestamp": "2025-11-10T09:38:14.697Z",
-        "error": null
-      },
-      {
-        "url": "https://id-dev.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 202,
-        "timestamp": "2025-11-10T09:39:14.780Z",
-        "error": null
-      },
       {
         "url": "https://id-dev.businessfinland.fi/",
         "status": "online",
@@ -2046,33 +2022,33 @@
         "responseTime": 231,
         "timestamp": "2025-11-10T10:26:15.190Z",
         "error": null
+      },
+      {
+        "url": "https://id-dev.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 172,
+        "timestamp": "2025-11-10T10:27:15.134Z",
+        "error": null
+      },
+      {
+        "url": "https://id-dev.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 213,
+        "timestamp": "2025-11-10T10:28:15.181Z",
+        "error": null
+      },
+      {
+        "url": "https://id-dev.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 135,
+        "timestamp": "2025-11-10T10:29:15.104Z",
+        "error": null
       }
     ],
     "hc_1762766681939_lqxnqlm5b": [
-      {
-        "url": "https://id.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 237,
-        "timestamp": "2025-11-10T09:37:14.830Z",
-        "error": null
-      },
-      {
-        "url": "https://id.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 305,
-        "timestamp": "2025-11-10T09:38:14.904Z",
-        "error": null
-      },
-      {
-        "url": "https://id.businessfinland.fi/",
-        "status": "online",
-        "statusCode": 200,
-        "responseTime": 225,
-        "timestamp": "2025-11-10T09:39:14.827Z",
-        "error": null
-      },
       {
         "url": "https://id.businessfinland.fi/",
         "status": "online",
@@ -2447,6 +2423,30 @@
         "statusCode": 200,
         "responseTime": 274,
         "timestamp": "2025-11-10T10:26:15.236Z",
+        "error": null
+      },
+      {
+        "url": "https://id.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 314,
+        "timestamp": "2025-11-10T10:27:15.278Z",
+        "error": null
+      },
+      {
+        "url": "https://id.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 253,
+        "timestamp": "2025-11-10T10:28:15.222Z",
+        "error": null
+      },
+      {
+        "url": "https://id.businessfinland.fi/",
+        "status": "online",
+        "statusCode": 200,
+        "responseTime": 240,
+        "timestamp": "2025-11-10T10:29:15.210Z",
         "error": null
       }
     ]
